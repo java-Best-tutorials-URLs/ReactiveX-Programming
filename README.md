@@ -43,6 +43,7 @@ Subscriber/Disposable - where the response will be sent after work has been comp
 
 
 http://www.vogella.com/tutorials/RxJava/article.html </br> 
+http://www.baeldung.com/rxjava-tutorial </br>
 http://www.baeldung.com/rx-java </br>
 https://blogs.oracle.com/pavelbucek/jax-rs-21-reactive-client-api </br>
 https://github.com/shamoh/jersey--examples--rx-client-java8-webapp </br>
